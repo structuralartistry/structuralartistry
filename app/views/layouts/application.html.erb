@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Structuralartistry3</title>
+  <%= stylesheet_link_tag    "application", :media => "all" %>
+  <%= javascript_include_tag :defaults %>
+  <%= csrf_meta_tags %>
+</head>
+  <body>
+		<div id='pagewrapper'>
+      <div id='header'>
+        <%= image_tag "sa_logo.jpg", :alt => 'StructuralArtistry logo' %>
+      </div>
+			<div id='content'>
+	      <%= yield %>
+			</div>
+			<div id='footer'>
+        &nbsp;
+      </div>
+		</div>
+  </body>
+</html>

@@ -1,0 +1,470 @@
+================================================================================
+D K  K a h n
+================================================================================
+
+  3 4 7 . 6 3 5 . 5 3 4 0
+  d k @ s t r u c t u r a l a r t i s t r y . c o m
+
+
+================================================================================
+P A S S I O N
+
+  To create beautiful code and projects adaptive to change and new creativity. To
+  operate in a test-driven agile manner allowing for maximum creativity, user
+  satisfaction, fun of coding and speed to get things done.
+
+
+================================================================================
+C U R R E N T  O B S E S S I O N S
+
+  JavaScript and front end JavaScript frameworks, node.js, derby, meteor and
+  the like. I see the direction of this technology in regards to reducing the
+  need of a developer to differentiate and spend time/focus on I/O between client
+  and server being similar in terms of a breakthrough as the ORM layers were to
+  DB I/O. Potentially faster development, easier, faster testing (especially
+  when JavaScript/Ajax involved) and simply more fun creating great
+  applications. This is what excites me right now.
+
+
+================================================================================
+T E C H N O L O G Y
+
+  -----------------------------------------------------------------------------
+  LANGUAGES
+    Ruby 1.8/1.9/2.0
+    JavaScript/CoffeeScript
+    C#
+    VisualBasic/VBA
+    PHP
+    C++
+
+  -----------------------------------------------------------------------------
+  FRAMEWORKS/LIBRARIES
+    Ruby on Rails
+    jQuery
+    Node.js
+    Backbone.js
+    Express.js
+    ASP.NET
+    ASP.NET MVC
+
+  -----------------------------------------------------------------------------
+  DATABASE
+    MySQL
+    PostgreSQLSQL Server
+    SQL/TSQL
+    MS Access
+
+  -----------------------------------------------------------------------------
+  WEB/DESIGN
+    HTML/5
+    CSS
+    Gimp
+
+  -----------------------------------------------------------------------------
+  METHODOLOGIES
+    Scrum, XP, Test-Driven Development (TDD), continuous integration
+
+
+================================================================================
+P R O J E C T S
+
+  -----------------------------------------------------------------------------
+  3rd party fulfillment (3PL) integration
+
+    COMPANY       True & Co via Cloud City Development
+    URL           http://trueandco.com
+    DATE          9/2012-3/2013
+    DESCRIPTION   Refactor and re-engineer existing third party logistics
+                  integration code. Plan and manage project timeline, specify
+                  and dialog with 3PL provider on integration details. Plan
+                  and implement acceptance and quality control testing on
+                  completed integration.
+    ROLE          Sole technical engineer on project, all coding,
+                  implementation and project management.
+    TECHNOLOGIES  Ruby on Rails 3.2
+
+  -----------------------------------------------------------------------------
+  TicketEvolution
+
+    COMPANY       TicketEvolution via Cloud City Development
+    URL           http://ticketevolution.com
+    DATE          2012
+    DESCRIPTION   Web-based infastructure for secondary ticket brokers
+    ROLE          Refactor API endpoints for speed.
+    ACHIEVEMENTS  Achieved increased speed of 800-1000% on assigned endpoints
+    TECHNOLOGIES  Ruby on Rails 3.1
+
+  -----------------------------------------------------------------------------
+  Afolio
+
+    COMPANY       Afolio via Cloud City Development
+    URL           http://www.afolio.com
+    DATE          2012
+    DESCRIPTION   Photosharing application
+    ROLE          Miscellaneous refactoring and bug fixes, rescue project
+    TECHNOLOGIES  Ruby on Rails 3.1
+
+  -----------------------------------------------------------------------------
+  Medivo/PatientPath
+
+    COMPANY       Medivo
+    URL           http://medivo.com
+    DATE          2011-2012
+    DESCRIPTION   Core Medivo product initially oriented to aggregating
+                  historical lab test information for thier patients and
+                  providing online reports to identify at risk patients; portal
+                  for patients to sign up for lab testing for areas of
+                  identified risk
+    ROLE          Team member engineer, assist with architecture. Perform role
+                  of project manager/planner.
+    TECHNOLOGIES  Ruby on Rails 3.1, jQuery
+
+  -----------------------------------------------------------------------------
+  Medivo/United Healthcare
+
+    COMPANY       Medivo
+    URL           http://medivo.com
+    DATE          2011
+    DESCRIPTION   Targeted healthcare campaign system to allow United
+                  Healthcare members to sign up on line and get results for
+                  diabetes testing as well as to interface result feedback to
+                  their primary physician
+    ROLE          Principal developer
+    TECHNOLOGIES  Ruby on Rails 3.1, jQuery
+
+  -----------------------------------------------------------------------------
+  WaveLineup
+
+    COMPANY       StructuralArtistry
+    URL           http://wavelineup.com
+    DATE          2009-2010
+    DESCRIPTION   Chiropractic practice management system
+
+    ROLE          Business owner, responsible for technical requirements,
+                  coding, production deployment environment, marketing,
+                  technical support. Collaborate with chiropractors to elicit
+                  requirements and refine functionality.
+
+    ACHIEVEMENTS  Determine requirements and design with local chiropractors,
+                  modeling the Network Spinal Analysis theory.
+
+                  Overcome challenge of making Visit Tracking and Travel Card
+                  aspect of the system as easy to use as pen and paper.
+
+                  Built in fully test-driven fashion with regular deploys to
+                  the Heroku environment and regular review by local
+                  chiropractors. High level of automated testing including
+                  extensive exercise of UI acceptance.
+
+                  Extensive use of CSS, jQuery and JavaScript for user
+                  experience and touch-screen accessibility. Engineered for
+                  iPad.
+
+                  Created all communications and marketing materials.
+
+    TECHNOLOGIES  Ruby on Rails 3.0, Ruby 1.9, rspec, steak, capybara,
+                  factory_girl, PostgreSQL, jQuery, JavaScript, CSS, Heroku
+
+  -----------------------------------------------------------------------------
+  NCC-Billing
+
+    COMPANY       National Credit Center
+    URL           http://nccdirect.com (company website)
+    DATE          2010-2011
+    DESCRIPTION   Custom back-office billing processing application
+    ROLE          Reverse engineer existing legacy billing application handling
+                  millions of rows of billing data. System imports raw data
+                  provided from credit bureaus, married and normalized to
+                  company internal and QuickBooks data, outputting both pdf
+                  client invoices and backups, and an IIF format file for import
+                  to the QuickBooks system.
+
+                  Entire system: planning, design, coding, testing and
+                  deployment. Work accepted and reviewed by staff currently
+                  running the legacy billing process.
+
+    ACHIEVEMENTS  Reverse engineer a multi-step process spanning Excel
+                  workbooks, two MS Access databases and multiple csv file
+                  inputs.
+
+                  Optimize system to data import, parsing, normalization and
+                  output in a period of about 30 minutes of processing time.
+
+                  New process frees approximately 16 hours per month of
+                  supervisor/management level personnel who previously manually
+                  run the billing process.
+
+                  Implement stringent validation on all inputs and normalization
+                  of data. Greatly reduce chance for human error and inaccurate billings.
+
+                  Built fully in test-driven fashion with coverage of all levels
+                  of system including UI acceptance.
+
+    TECHNOLOGIES  Ruby on Rails 3.0, Ruby 1.9.2, delayed_job, paperclip, rspec,
+                  steak, factory_girl, wkhtmltopdf, Postgresql, Nginx,
+                  Passenger, Ubuntu Server 10.0,4
+
+  -----------------------------------------------------------------------------
+  FanMouth
+
+    COMPANY       via FreshOut
+    URL           http://www.fanmouth.com   http://freshout.us
+    DATE          2011
+
+    DESCRIPTION   FanMouth is an online fantasy sports betting system which
+                  includes an included social platform for blogging and sharing
+                  information related to sports. Social platform based on a
+                  Rails engine.
+
+    ROLE          Receive drawings from design and base programming on these and
+                  a limited written spec of the project. Involvement was to
+                  create entire backend for the fantasy sports betting portion
+                  of the system and to assist in integrating the social platform
+                  which was based on an existing Rails engine.
+
+    ACHIEVEMENTS  Integrate with PayPal both using Standard and Express checkout.
+
+                  Implement Login with Facebook functionality
+
+                  Design and implement logic for betting which is legally
+                  compliant and maximizes traffic to system.
+
+                  Test-driven implementation
+
+    TECHNOLOGIES  Ruby on Rails 3.1, Ruby 1.8.7, rspec, shoulda, factory_girl,
+                  activemerchant, omniauth, carrierwave, MySql
+
+  -----------------------------------------------------------------------------
+  Deli
+
+    COMPANY       via FreshOut
+    URL           http://deliradio.com   http://freshout.us
+    DATE          2011
+
+    DESCRIPTION   Deli is a system which allows users to find what is going on
+                  in their local music scene and listen to tracks by local
+                  artists for a given area with upcoming gigs, allowing the user
+                  to find new bands.
+
+    ROLE          Assist staff currently on this work in progress.
+
+    ACHIEVEMENTS  Implement search functionality and multi-criteria filtering
+                  using the metasearch gem.
+
+                  Implement radial searching with a combination of geokit and
+                  custom sql coding for Postgres.
+
+                  Implement Login with Facebook functionality
+
+                  Test-driven implementation
+
+    TECHNOLOGIES  Ruby on Rails 2.3.9, Ruby 1.8.7, rspec, shoulda, factory_girl,
+                  metsearch, geokit, carrierwave, MySql
+
+  -----------------------------------------------------------------------------
+  CreditConx
+
+    COMPANY       SettlementOne
+    URL           http://settlementone.com
+    DATE          2010-2011
+
+    DESCRIPTION   Application's main purpose is to alert lenders and banks at
+                  the time of mortgage loan funding to new liabilities the
+                  borrower may have incurred since initial loan approval. Users
+                  are banks, lenders and mortgage brokers. Assists in compliance
+                  to new Federal lending laws.
+
+    ROLE          Sole responsible: technical requirements, coding and
+                  production deployment environment. Work with non-technical
+                  management to implement their needs and vision.
+
+    ACHIEVEMENTS  Project conceived and deployed in a 2 month timeframe.
+
+                  Company bypassed own development department based on
+                  confidence of my completing this project in the critical
+                  timeframe.
+
+                  Successful deployment allowed company to go to market with a
+                  unique product that provides a service that every lending
+                  institution needs to be compliant with new laws.
+
+                  Entire project built using test-driven development (TDD): 90%
+                  test coverage on UI, close to 100% coverage on business logic
+
+                  Designed Comparison report and logic which allows a user to
+                  know at a quick glance the result of the comparison without
+                  having to sift through credit data.
+
+                  Created .NET Console application serving as a local SSL proxy
+                  on users computer to receive and save XML credit data from
+                  (hostile) Loan Origination Systems.
+
+                  Built deployment environment behind the SSL service provided
+                  by Barracuda load balancer utilizing Nginx and Passenger
+                  residing on Ubuntu 10.0.4 server. Configured application
+                  permissions, file share, database backup process, etc.
+
+    TECHNOLOGIES  Ruby on Rails 2, Ruby 1.8.7, will_paginate, test/unit,
+                  capybara, wkhtmltopdf, MySql, jQuery, Nginx, Passenger, Ubuntu
+                  Server 10.0,4, JQuery, ASP.Net (console/winforms), Rexml,
+                  ssl_requirement
+
+  -----------------------------------------------------------------------------
+  LendSecure
+
+    COMPANY       SettlementOne
+    URL           http://settlementone.com
+    DATE          2009-2010
+
+    DESCRIPTION   Web-based platform that allows mortgage lenders to request and
+                  manager appraisals, credit reports, escrow, title and other
+                  products directly through SettlementOne. Replaced a co-branded
+                  application provided OEM from other company.
+
+    ROLE          Contributor - team of 5
+
+    ACHIEVEMENTS  Once deployed expected savings are $1m the first year over
+                  existing  system
+
+                  Engineered several integrations including with: Credit card
+                  payment processor (SkipJack), Collateral Headquarters (CHQ)
+                  platform.
+
+                  Provided a voice on the team for agile development practices
+                  including Scrum, Test Driven Development and development best
+                  practices.
+
+    TECHNOLOGIES  ASP.NET 3.5, C#, JavaScript, HTML, CSS, Sql Server 2008, VSS,
+                  MS Test, SQL, TSQL, LINQ to SQL, ASP.NET MVC, Test Driven
+                  Development, MS Test Framework
+
+  -----------------------------------------------------------------------------
+  NCCICredit
+
+    COMPANY       National Credit Center
+    URL           http://nccdirect.com (company website)
+    DATE          2005-2010
+    DESCRIPTION   Application which allows automotive dealers to run credit
+                  reports, comply with Federal and State laws, track the
+                  efficiency of their marketing programs and provide an online
+                  credit application for credit cobranded for their own site.
+
+    ROLE          Sole responsible for technical requirements, project
+                  management, production support. Personally coded 60%+ of the
+                  initial deployment. Supervised 1 - 3 engineers.
+
+    ACHIEVEMENTS  Transformed struggling, non-deployable project into a
+                  successful deployment.
+
+                  Delivered a high availability design and implementation to
+                  allow for 30m credit reports to be processed monthly.
+
+                  Deployment base Is approximately 5000 users.
+
+                  Implemented Scrum-based agile development cycle, increasing
+                  department focus, efficiency and quality.
+
+                  Application drew record revenue and over $600k cost savings
+                  the first year and annually.
+
+                  When someone goes to an auto dealership there is greater than
+                  a 1 in 3 chance that their credit report will be pulled
+                  through this system.
+
+    TECHNOLOGIES  ASP.NET 1.1/2.0/3.5, C#, JavaScript, HTML, XML, CSS, SQL
+                  Server 2000/2005/2008, VSS, nUnit, nAnt, CruiseControl.NET,
+                  SQL, TSQL , LINQ to SQL, ASP.NET MVC, Test Driven Development,
+                  MS Test Framework.
+
+  -----------------------------------------------------------------------------
+  Aldworth Human Resources Information System (HRIS)
+
+    COMPANY       Aldworth Company (no longer in existance)
+    DATE          2002-2005
+    DESCRIPTION   Human Resources Information System (HRIS) built in MS Access
+                  which automated information access for company.  System
+                  improved record keeping and communication between line
+                  supervisors and upper management.
+
+    ROLE          Combined duties of Human Resources Manager and developer.
+                  Designed, coded and implemented system based on own knowledge
+                  and needs in the HR function and in conjunction with client
+                  personnel. System later got adopted by rest of company.
+
+    ACHIEVEMENTS  Developed web-based front-end allows employees to update their
+                  information, transmit timecard data, request time off
+                  approvals.
+
+                  Reduced payroll time card audit process time over 50% and
+                  reduced incidence of payroll inaccuracy.
+
+                  Decentralized vacation and personal day approvals to line
+                  managers.
+
+                  Virtually eliminated need to search through physical
+                  documents, including personnel files.
+
+                  Increased receipt of in incident reports from supervisory
+                  staff by over 1000%.
+
+                  Improved on time delivery of performance appraisals by 90%
+                  over previous manual system.
+
+                  Reduce overall HR administration activity and time over 25%.
+
+    TECHNOLOGIES  MS ASP, MS Access,  VBA , HTML, CSS, JavaScript, Simplex
+                  Winstar, Paradox
+
+================================================================================
+E M P L O Y M E N T  H I S T O R Y
+
+  2009-present
+    Principal/Consultant/Freelance Engineer
+    StructuralArtistry
+
+  2011-2012
+    Senior Software Engineer
+    Medivo
+
+  2010
+    Software Engineer
+    FreshOut
+
+  2005-2009
+    Director of Software Development
+    SettlementOne/National Credit Center
+
+  2005
+    Director of Human Resources
+    SettlementOne/National Credit Center
+
+  2003-2005
+    Regional Human Resources Manager
+    Aldworth Company
+
+  2000-2003
+    Human Resources Manager
+    Aldworth Company
+
+================================================================================
+E D U C A T I O N
+
+  University of California at Los Angeles
+    Bachelor of Arts, Psychology and Linguistics
+
+  Certified Scrum Master
+
+================================================================================
+L A N G U A G E S
+
+  English (native)
+  Spanish (bilingual)
+
+
+
+dk
+dkkahn
+david kahn
+structuralartistry
+3476355340
